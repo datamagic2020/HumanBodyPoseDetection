@@ -11,7 +11,7 @@ pose = mp_pose.Pose()
 
 # take video input for pose detection
 # you can put here video of your choice
-cap = cv2.VideoCapture("C:\JustDoIt\ML\Sample_videos\\video2.mp4")
+cap = cv2.VideoCapture("sampleVideo.mp4")
 
 # take live camera  input for pose detection
 # cap = cv2.VideoCapture(0)
