@@ -1,6 +1,6 @@
 # HumanBodyPoseDetection
 
-![pose_detected](https://github.com/datamagic2020/HumanBodyPoseDetection/blob/main/pose_detected.png) ![pose_detected](https://github.com/datamagic2020/HumanBodyPoseDetection/blob/main/pose_extracted.png)
+![pose_detection](https://github.com/datamagic2020/HumanBodyPoseDetection/blob/main/Pose_detection.jpg)
 
 ### Install Depedencies
 from requirements.txt file
